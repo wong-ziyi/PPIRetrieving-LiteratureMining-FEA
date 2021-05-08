@@ -1,0 +1,35 @@
+﻿GeneSymbol,Mesh_Term
+Gli3,"(""Zinc Finger Protein Gli3""[Mesh]) OR ( ""Gli3 protein, zebrafish"" [Supplementary Concept] OR ""GLI3 protein, rat"" [Supplementary Concept] OR ""Gli3 protein, mouse"" [Supplementary Concept] OR  ""GLI3 protein, human"" [Supplementary Concept] )"
+Znf521,"""zinc finger protein 521, human"" [Supplementary Concept] OR  ""zinc finger protein 521, rat"" [Supplementary Concept]"
+Ptprc,"Ptprc protein, rat [Supplementary Concept] OR ""Ptprc protein, mouse"" [Supplementary Concept] OR  ""PTPRC protein, human"" [Supplementary Concept]"
+Trps1,"TRPS1 protein, human [Supplementary Concept] OR  ""Trps1 protein, mouse"" [Supplementary Concept]"
+Egfr,ErbB Receptors[Mesh]
+Irs1,Insulin Receptor Substrate Proteins[Mesh]
+Thbs1," ""Thrombospondin 1""[Mesh]"
+Rbl2,"RBL2 protein, Arabidopsis [Supplementary Concept] OR ""Rbl2 protein, rat"" [Supplementary Concept] OR ""Rbl2 protein, mouse"" [Supplementary Concept] OR ""RBL2 protein, human"" [Supplementary Concept] OR  ""RBL2 protein, S cerevisiae"" [Supplementary Concept]"
+Hdac4,"""HDAC4 protein, zebrafish"" [Supplementary Concept] OR ""HDAC4 protein, rat"" [Supplementary Concept] OR ""HDAC4 protein, Drosophila"" [Supplementary Concept] OR  ""HDAC4 protein, human"" [Supplementary Concept]"
+Ctnnb1,beta Catenin[Mesh]
+Ezh2,Enhancer of Zeste Homolog 2 Protein[Mesh]
+Sox5,"Sox5 protein, zebrafish [Supplementary Concept] OR ""Sox5 protein, Xenopus"" [Supplementary Concept] OR ""SOX5 protein, human"" [Supplementary Concept] OR  ""Sox5 protein, mouse"" [Supplementary Concept]"
+Tle1,"TLE1 protein, Xenopus [Supplementary Concept] OR ""TLE1 protein, human"" [Supplementary Concept] OR  ""Tle1 protein, mouse"" [Supplementary Concept]"
+Pecam1,"PECAM1 protein, human [Supplementary Concept] OR  ""Pecam1 protein, mouse"" [Supplementary Concept]"
+Sirt1,Sirtuin 1[Mesh]
+Fbxw7,F-Box-WD Repeat-Containing Protein 7[Mesh]
+Mcam,"Mcam protein, mouse [Supplementary Concept] OR ""Mcam protein, rat"" [Supplementary Concept] OR  ""MCAM protein, human"" [Supplementary Concept]"
+Foxo3,Forkhead Box Protein O3[Mesh]
+Foxo1,Forkhead Box Protein O1[Mesh]
+Ddx5,"Ddx5 protein, human [Supplementary Concept] OR ""Ddx5 protein, mouse"" [Supplementary Concept] OR  ""Ddx5 protein, rat"" [Supplementary Concept]"
+Alb,Albumins[Mesh]
+Pou5f1,"Pou5f1 protein, mouse [Supplementary Concept] OR ""POU5F1 protein, human"" [Supplementary Concept] OR  ""Pou5f1 protein, rat"" [Supplementary Concept]"
+Jun,Transcription Factor AP-1[Mesh]
+Junb,"JunB protein, mouse [Supplementary Concept] OR  ""JunB protein, human"" [Supplementary Concept]"
+Sp7,Sp7 Transcription Factor[Mesh]
+Gata4,GATA4 Transcription Factor[Mesh]
+Wwtr1,"WWTR1 protein, human [Supplementary Concept] OR ""Wwtr1 protein, mouse"" [Supplementary Concept] OR ""WWTR1 protein, zebrafish"" [Supplementary Concept] OR  ""WWTR1 protein, rat"" [Supplementary Concept]"
+Tp53,Tumor Suppressor Protein p53[Mesh]
+Wnt10b,"Wnt10b protein, rat [Supplementary Concept] OR ""wnt10b protein, zebrafish"" [Supplementary Concept] OR ""WNT10B protein, human"" [Supplementary Concept] OR  ""Wnt10b protein, mouse"" [Supplementary Concept]"
+Gapdh,Glyceraldehyde-3-Phosphate Dehydrogenases[Mesh]
+Sox2,SOXB1 Transcription Factors[Mesh]
+Cebpb,CCAAT-Enhancer-Binding Protein-beta[Mesh]
+Snai1,"Snai1 protein, Xenopus [Supplementary Concept] OR ""snai1 protein, rat"" [Supplementary Concept] OR ""Snai1 protein, mouse"" [Supplementary Concept] OR  ""SNAI1 protein, human"" [Supplementary Concept]"
+Cbfb,Core Binding Factor beta Subunit[Mesh]
